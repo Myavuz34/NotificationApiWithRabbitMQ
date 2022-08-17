@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yvz.Notification.Models", "Yvz.Notification.Models\Yvz.Notification.Models.csproj", "{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
