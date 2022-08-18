@@ -2,12 +2,12 @@ using System.Text.Json.Serialization;
 
 namespace Yvz.Notification.Models;
 
-public class SumbitCustomer
+public class SubmitCustomer
 {
-    [JsonIgnore]
-    public int Id { get; set; }
-    [JsonIgnore]
-    public DateTime CreatedDate { get; set; } = DateTime.Now;
+    [JsonIgnore] public int Id { get; set; }
+
+    [JsonIgnore] public DateTime CreatedDate { get; set; } = DateTime.Now;
+
     public string Name { get; set; }
 
     public override string ToString()

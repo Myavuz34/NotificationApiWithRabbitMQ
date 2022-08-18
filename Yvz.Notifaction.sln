@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yvz.Notification.Models", "Yvz.Notification.Models\Yvz.Notification.Models.csproj", "{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yvz.Notifcation.Api", "Yvz.Notifcation.Api\Yvz.Notifcation.Api.csproj", "{222DE297-8063-4033-90DA-D68BD59832E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yvz.Notification.CustomerApi", "Yvz.Notification.CustomerApi\Yvz.Notification.CustomerApi.csproj", "{77C9E591-9D38-4BE4-81D5-057F9B1716A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1ACAE46-2E03-45F6-AAE2-C6C44CCC7502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222DE297-8063-4033-90DA-D68BD59832E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222DE297-8063-4033-90DA-D68BD59832E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222DE297-8063-4033-90DA-D68BD59832E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222DE297-8063-4033-90DA-D68BD59832E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C9E591-9D38-4BE4-81D5-057F9B1716A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C9E591-9D38-4BE4-81D5-057F9B1716A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C9E591-9D38-4BE4-81D5-057F9B1716A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C9E591-9D38-4BE4-81D5-057F9B1716A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
